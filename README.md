@@ -1,4 +1,4 @@
-# praktikum4mysql
+# SQLpraktikum4
 
 
 ```
