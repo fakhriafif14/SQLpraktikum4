@@ -14,9 +14,9 @@ Dosen   : Agung Nugroho, S.Kom., M.Kom.
 - Soal :
 
 
-![Image](ss/ss18.png)
+![Image](ss/ss28.png)
 
-![Image](ss/ss19.png)
+![Image](ss/ss27.png)
 
 
 ## membuat table terlebih dahulu
@@ -48,8 +48,8 @@ INSERT INTO pegawai (idpegawai, nama_depan, nama_belakang, email, telepon, tgl_k
 
 berikut hasil outputnya :
 
-![Image](ss/ss1.png)
-![Image](ss/ss2.png)
+![Image](ss/ss18.png)
+![Image](ss/ss19.png)
 
 
 Dalam contoh di atas, kita membuat tabel `pegawai` dengan kolom-kolom yang sesuai dengan struktur yang Anda berikan. Kemudian, menggunakan perintah `INSERT INTO`, kita mengisi tabel dengan data yang diberikan dalam format yang sesuai.
