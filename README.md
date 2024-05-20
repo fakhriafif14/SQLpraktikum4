@@ -14,9 +14,9 @@ Dosen   : Agung Nugroho, S.Kom., M.Kom.
 - Soal :
 
 
-![Image](ss/ss28.png)
+![gambar](ss28.png)
 
-![Image](ss/ss27.png)
+![gambar](ss27.png)
 
 
 ## membuat table terlebih dahulu
@@ -48,8 +48,8 @@ INSERT INTO pegawai (idpegawai, nama_depan, nama_belakang, email, telepon, tgl_k
 
 berikut hasil outputnya :
 
-![Image](ss/ss18.png)
-![Image](ss/ss19.png)
+![gambar](ss29.png)
+![gambar](ss18.png)
 
 
 Dalam contoh di atas, kita membuat tabel `pegawai` dengan kolom-kolom yang sesuai dengan struktur yang Anda berikan. Kemudian, menggunakan perintah `INSERT INTO`, kita mengisi tabel dengan data yang diberikan dalam format yang sesuai.
@@ -69,7 +69,7 @@ Pastikan bahwa tabel "pegawai" telah ada dalam database Anda sebelum menjalankan
 berikut hasil outputnya:
 
 
-![Image](ss/ss3.png)
+![gambar](ss19.png)
 
 
 2. Untuk menampilkan pegawai yang tunjangannya NULL, Anda dapat menggunakan perintah SQL SELECT dengan klausa WHERE dan operator IS NULL. Berikut adalah contoh kode SQL untuk melakukan hal tersebut:
@@ -88,7 +88,7 @@ Pastikan bahwa tabel "pegawai" telah ada dalam database Anda sebelum menjalankan
 berikut hasil outputnya :
 
 
-![Image](ss/ss4.png)
+![gambar](ss20.png)
 
 
 3. Untuk menampilkan pegawai yang tunjangannya tidak NULL, Anda dapat menggunakan perintah SQL SELECT dengan klausa WHERE dan operator IS NOT NULL. Berikut adalah contoh kode SQL untuk melakukan hal tersebut:
@@ -107,7 +107,7 @@ Pastikan bahwa tabel "pegawai" telah ada dalam database Anda sebelum menjalankan
 berikut hasil outputnya :
 
 
-![Image](ss/ss5.png)
+![gambar](ss21.png)
 
 
 4. Untuk menampilkan atau menghitung jumlah baris atau record dalam tabel pegawai, Anda dapat menggunakan perintah SQL SELECT dengan fungsi COUNT. Berikut adalah contoh kode SQL untuk melakukannya:
@@ -127,7 +127,7 @@ Pastikan bahwa tabel "pegawai" telah ada dalam database Anda sebelum menjalankan
 berikut hasil outputnya:
 
 
-![Image](ss/ss6.png)
+![gambar](ss22.png)
 
 
 5. Untuk menghitung jumlah total gaji di tabel pegawai, Anda dapat menggunakan perintah SQL SELECT dengan fungsi agregat SUM. Berikut adalah contoh kode SQL untuk melakukannya:
@@ -147,7 +147,7 @@ Pastikan bahwa tabel "pegawai" telah ada dalam database Anda sebelum menjalankan
 berikut hasil outputnya :
 
 
-![Image](ss/ss7.png)
+![gambar](ss23.png)
 
 
 6. Untuk menghitung rata-rata gaji pegawai, Anda dapat menggunakan perintah SQL SELECT dengan fungsi agregat AVG. Berikut adalah contoh kode SQL untuk melakukannya:
@@ -167,7 +167,7 @@ Pastikan bahwa tabel "pegawai" telah ada dalam database Anda sebelum menjalankan
 berikut hasil outputnya: 
 
 
-![Image](ss/ss8.png)
+![gambar](ss24.png)
 
 
 7. Untuk menampilkan gaji terkecil dari tabel pegawai, Anda dapat menggunakan perintah SQL SELECT dengan fungsi agregat MIN. Berikut adalah contoh kode SQL untuk melakukannya:
@@ -187,7 +187,7 @@ Pastikan bahwa tabel "pegawai" telah ada dalam database Anda sebelum menjalankan
 berikut hasil outputnya :
 
 
-![Image](ss/ss9.png)
+![gambar](ss25.png)
 
 
 
@@ -208,7 +208,7 @@ Pastikan bahwa tabel "pegawai" telah ada dalam database Anda sebelum menjalankan
 berikut hasil outputnya :
 
 
-![Image](ss/ss10.png)
+![gambar](ss/ss26.png)
 
 
 
