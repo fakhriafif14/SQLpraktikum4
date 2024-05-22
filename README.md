@@ -216,7 +216,7 @@ berikut hasil outputnya :
 
 ![gambar](praktikum4/ss31.png)
 
-![gambar](praktikum4/ss38.png)
+![gambar](ss38.png)
 
 
 
