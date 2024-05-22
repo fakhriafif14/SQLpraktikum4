@@ -208,15 +208,15 @@ Pastikan bahwa tabel "pegawai" telah ada dalam database Anda sebelum menjalankan
 berikut hasil outputnya :
 
 
-![gambar](ss/ss26.png)
+![gambar](ss26.png)
 
 
 
 # - Tugas peraktikum ke 2
 
-![gambar](ss31.png)
+![gambar](praktikum4/ss31.png)
 
-![gambar](ss30.png)
+![gambar](praktikum4/ss38.png)
 
 
 
@@ -251,7 +251,7 @@ Perintah di atas akan membuat tabel "hewan" dengan kolom-kolom yang sesuai, yait
 berikut hasil outputnya : 
 
 
-![gambar](ss32.png)
+![gambar](praktikum4/ss30.png)
 
 
 lanjut ke perintah tugas praktikumnya :
@@ -271,7 +271,7 @@ Dalam contoh di atas, digunakan juga klausa AS untuk memberikan nama alias "juml
 berikut hasil outputnya :
 
 
-![gambar](ss33.png)
+![gambar](praktikum4/ss32.png)
 
 
 2. Untuk menampilkan jumlah hewan berdasarkan spesies, Anda dapat menggunakan perintah SQL SELECT dengan klausa GROUP BY dan fungsi agregat COUNT. Berikut adalah contoh kode SQL untuk melakukannya:
@@ -290,7 +290,7 @@ Dalam contoh di atas, digunakan juga klausa AS untuk memberikan nama alias "juml
 berikut hasil outputnya :
 
 
-![gambar](ss34.png)
+![gambar](praktikum4/ss33.png)
 
 
 3. Untuk menampilkan jumlah hewan berdasarkan jenis kelamin, Anda dapat menggunakan perintah SQL SELECT dengan klausa GROUP BY dan fungsi agregat COUNT. Berikut adalah contoh kode SQL untuk melakukannya:
@@ -309,7 +309,7 @@ Dalam contoh di atas, digunakan juga klausa AS untuk memberikan nama alias "juml
 berikut hasil outputnya:
 
 
-![gambar](ss35.png)
+![gambar](praktikum4/ss34.png)
 
 
 4. Untuk menampilkan jumlah hewan berdasarkan spesies dan jenis kelamin, Anda dapat menggunakan perintah SQL SELECT dengan klausa GROUP BY dan fungsi agregat COUNT. Berikut adalah contoh kode SQL untuk melakukannya:
@@ -328,7 +328,7 @@ Dalam contoh di atas, digunakan juga klausa AS untuk memberikan nama alias "juml
 berikut hasil outputnya :
 
 
-![gambar](ss36.png)
+![gambar](praktikum4/ss35.png)
 
 
 5. Untuk menampilkan jumlah hewan berdasarkan spesies (cat dan dog saja) dan jenis kelamin, Anda dapat menggunakan perintah SQL SELECT dengan klausa WHERE untuk memfilter spesies yang diinginkan, serta klausa GROUP BY dan fungsi agregat COUNT. Berikut adalah contoh kode SQL untuk melakukannya:
@@ -348,7 +348,7 @@ Dalam contoh di atas, digunakan juga klausa AS untuk memberikan nama alias "juml
 berikut hasil outputnya:
 
 
-![gambar](ss37.png)
+![gambar](praktikum4/ss36.png)
 
 
 6. Untuk menampilkan jumlah hewan berdasarkan jenis kelamin yang diketahui saja, Anda dapat menggunakan perintah SQL SELECT dengan klausa WHERE untuk memfilter data berdasarkan jenis kelamin yang tidak NULL, serta klausa GROUP BY dan fungsi agregat COUNT. Berikut adalah contoh kode SQL untuk melakukannya:
@@ -370,7 +370,7 @@ Pastikan bahwa tabel "hewan" telah ada dalam database Anda sebelum menjalankan p
 berikut hasil outputnya :
 
 
-![gambar](ss38.png)
+![gambar](praktikum4/ss37.png)
 
 
 
